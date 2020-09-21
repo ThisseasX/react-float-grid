@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-float-grid/static/js/main.e32a2d36.chunk.js",
+    "main.js.map": "/react-float-grid/static/js/main.e32a2d36.chunk.js.map",
+    "runtime-main.js": "/react-float-grid/static/js/runtime-main.78f83244.js",
+    "runtime-main.js.map": "/react-float-grid/static/js/runtime-main.78f83244.js.map",
+    "static/js/2.04c16dbe.chunk.js": "/react-float-grid/static/js/2.04c16dbe.chunk.js",
+    "static/js/2.04c16dbe.chunk.js.map": "/react-float-grid/static/js/2.04c16dbe.chunk.js.map",
+    "index.html": "/react-float-grid/index.html",
+    "precache-manifest.85e97ad8b0e250b857e84bb00f1b3618.js": "/react-float-grid/precache-manifest.85e97ad8b0e250b857e84bb00f1b3618.js",
+    "service-worker.js": "/react-float-grid/service-worker.js",
+    "static/js/2.04c16dbe.chunk.js.LICENSE.txt": "/react-float-grid/static/js/2.04c16dbe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78f83244.js",
+    "static/js/2.04c16dbe.chunk.js",
+    "static/js/main.e32a2d36.chunk.js"
+  ]
+}
